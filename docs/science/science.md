@@ -6,6 +6,6 @@ has_children: true
 permalink: /docs/science
 ---
 
-# 메뉴 여러개 연습-1
+# 공지 사항
 
 
