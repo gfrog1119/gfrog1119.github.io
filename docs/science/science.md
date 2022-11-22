@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "과학 소식"
+title:  "논문 "
 nav_order: 4
 has_children: true
 permalink: /docs/science
